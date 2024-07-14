@@ -1,23 +1,20 @@
 # Hello, I'm 50C878 👋
 
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
-
 ## About Me
 
-Hi, I'm 50C878, a passionate Python developer with interests in web development, data science, and machine learning. I enjoy exploring new technologies and applying them to solve real-world problems.
+Hi, I'm 50C878. Im a Python dev from Glasgow. I've been coding for more than 15 years as a hobby. I work as an IT consultant in professional services. I'm aiming to get a few products brought to market this year.
 
-- 🔭 I’m currently working on a new startup SaaS project for the fitness industry. It's a bespoke check-in app that lets personal trainers track check-ins with clients, add diet plans, training plans, and other cool features.
+- 🔭 I’m currently working on a new startup SaaS project for the fitness industry. It's a bespoke 'check-in' app that lets personal trainers track check-ins with clients, add diet plans, training plans, and other cool features such as AI integration. 
 - 🌱 I’m currently learning advanced machine learning techniques and cloud deployment strategies.
 - 👯 I’m looking to collaborate on innovative Python projects and fitness tech solutions.
 - 🤔 I’m looking for help with scaling SaaS applications and improving user engagement.
 - 💬 Ask me about Python, web development, and machine learning.
-- 📫 How to reach me: [your email or social media links].
-- 😄 Pronouns: [your pronouns].
-- ⚡ Fun fact: I love combining my passion for coding with my interest in fitness and wellness.
+- 📫 How to reach me: [mandate_brick0b@icloud.com](mailto:mandate_brick0b@icloud.com).
+- 😄 Pronouns: this/ that.
 
 ## My Skills
 
-- **Programming Languages:** Python
+- **Programming Languages:** Python, JavaScript, Java, HTML, CSS
 - **Frameworks and Libraries:** Django, Flask, Pandas, NumPy, Scikit-learn, TensorFlow
 - **Tools and Platforms:** Git, Docker, AWS, Heroku
 
