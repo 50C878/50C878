@@ -1,28 +1,40 @@
-# Hello, I'm 50C878 👋
+# About Me
 
-## About Me
+## Hey there! I'm 50C878 🐍
 
-Hi, I'm 50C878. Im a Python dev from Glasgow. I've been coding for more than 15 years as a hobby. I work as an IT consultant in professional services. I'm aiming to get a few products brought to market this year.
+Welcome to my GitHub profile! I'm a technology consultant based in the UK, working primarily in the fintech sector. I enjoy working with the latest and greatest technologies, always on the lookout for new opportunities to innovate and create.
 
-- 🔭 I’m currently working on a new startup SaaS project for the fitness industry. It's a bespoke 'check-in' app that lets personal trainers track check-ins with clients, add diet plans, training plans, and other cool features such as AI integration. 
-- 🌱 I’m currently learning advanced machine learning techniques and cloud deployment strategies.
-- 👯 I’m looking to collaborate on innovative Python projects and fitness tech solutions.
-- 🤔 I’m looking for help with scaling SaaS applications and improving user engagement.
-- 💬 Ask me about Python, web development, and machine learning.
-- 📫 How to reach me: [mandate_brick0b@icloud.com](mailto:mandate_brick0b@icloud.com).
-- 😄 Pronouns: this/ that.
+### Professional Journey
 
-## My Skills
+With a diverse background as a data analyst, business analyst, and project manager, I bring a broad skill set to the table. My journey started in Glasgow, where I studied software engineering before diving headfirst into the fintech world with a leading company from a young age. 
 
-- **Programming Languages:** Python, JavaScript, Java, HTML, CSS
-- **Frameworks and Libraries:** Django, Flask, Pandas, NumPy, Scikit-learn, TensorFlow
-- **Tools and Platforms:** Git, Docker, AWS, Heroku
+### Skills & Expertise
 
-## Projects
+- **Problem Solving**: Tackling complex issues with creative solutions.
+- **Communication**: Excellent people skills and effective communication.
+- **Technical Proficiency**:
+  - **Languages**: Python, JavaScript, Java
+  - **Frameworks**: Django, Flask
+  - **Tools**: Tableau, PowerBI
+  - **Data Analytics**: Strong analytical skills and experience
 
-### SaaS Check-in App for Fitness Industry
-A bespoke check-in app that allows personal trainers to track check-ins with clients, add diet plans, training plans, and other features.
+### Projects & Startups
 
-![50C878's GitHub Stats](https://github-readme-stats.vercel.app/api?username=50C878&show_icons=true&theme=radical)
+I've been involved in numerous projects, from pioneering contactless payment systems before Apple Pay to CRM migrations to platforms like Salesforce. Currently, I'm working on a few exciting startups, including:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=50C878&layout=compact&theme=radical)
+- **Fitness Industry Product**: An innovative solution for fitness enthusiasts.
+- **Fast Food Industry Product**: A unique product tailored for the fast food sector.
+
+Stay tuned for more updates as these projects develop!
+
+### Hobbies & Interests
+
+Outside of work, I love running, hitting the gym, and watching movies. I'm an easy-going person who enjoys a good balance between staying active and relaxing.
+
+### Get in Touch
+
+Feel free to reach out to me via email at [mandate_brick0b@icloud.com](mailto:mandate_brick0b@icloud.com). I'm always open to new opportunities and collaborations.
+
+---
+
+*"Pronouns? Call me whatever you want, just don't call me late for dinner!"* 🍽️
